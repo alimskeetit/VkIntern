@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VkIntern", "VkIntern\VkIntern.csproj", "{17D9C719-83CD-405B-B818-E97310F8A6FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DB", "ClassLibrary1\DB.csproj", "{78438320-24D9-4248-BA80-8F81F2CCA065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D9C719-83CD-405B-B818-E97310F8A6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D9C719-83CD-405B-B818-E97310F8A6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D9C719-83CD-405B-B818-E97310F8A6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D9C719-83CD-405B-B818-E97310F8A6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78438320-24D9-4248-BA80-8F81F2CCA065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78438320-24D9-4248-BA80-8F81F2CCA065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78438320-24D9-4248-BA80-8F81F2CCA065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78438320-24D9-4248-BA80-8F81F2CCA065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A796DA1B-7B37-4956-AC22-BBB8F81B7EED}
+	EndGlobalSection
+EndGlobal
